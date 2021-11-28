@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello World 💗
+## Technology stack:
+<ul>
+  <li>HTML</li>
+  <li>CSS (SASS / SCSS)</li>
+  <li>JavaScript</li>
+  <li>BEM (CSS)</li>
+  <li>Webpack / Gulp</li>
+  <li>Bootstrap</li>
+  <li>Git (GitHub)</li>
+ </ul>
+<hr>
 
-<!--
-**kilokid/kilokid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+lomovdev@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://i.pinimg.com/originals/64/05/31/6405318ac146473a95bfbdcec2b32943.gif)

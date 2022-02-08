@@ -8,6 +8,7 @@
   <li>Webpack / Gulp</li>
   <li>Bootstrap</li>
   <li>Git (GitHub)</li>
+  <li>React</li>
  </ul>
 <hr>
 

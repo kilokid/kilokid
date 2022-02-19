@@ -9,6 +9,7 @@
   <li>Bootstrap</li>
   <li>Git (GitHub)</li>
   <li>React</li>
+  <li>React hooks</li>
   <li>Redux</li>
  </ul>
 <hr>

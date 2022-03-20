@@ -2,7 +2,8 @@
 ## Technology stack:
 <ul>
   <li>HTML</li>
-  <li>CSS (SASS / SCSS)</li>
+  <li>CSS</li>
+  <li>SASS / LESS / PostCSS </li>
   <li>JavaScript</li>
   <li>BEM (CSS)</li>
   <li>Webpack / Gulp</li>

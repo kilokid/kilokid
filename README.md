@@ -8,7 +8,7 @@
   <li>BEM (CSS)</li>
   <li>Webpack / Gulp</li>
   <li>Bootstrap</li>
-  <li>Git (GitHub)</li>
+  <li>Git (GitHub/GitLab)</li>
   <li>React</li>
   <li>React hooks</li>
   <li>Redux</li>

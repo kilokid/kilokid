@@ -11,7 +11,7 @@
   <li>Git (GitHub/GitLab)</li>
   <li>React</li>
   <li>React hooks</li>
-  <li>Redux</li>
+  <li>Redux (Redux-Toolkit)</li>
  </ul>
 <hr>
 

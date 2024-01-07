@@ -15,4 +15,8 @@
 
 lomovdev@gmail.com
 
-![](https://i.pinimg.com/originals/64/05/31/6405318ac146473a95bfbdcec2b32943.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://platane.github.io/snk/)" />
+  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://platane.github.io/snk/)" />
+  <img alt="github-snake" src="[github-snake.svg](https://platane.github.io/snk/)https://platane.github.io/snk/" />
+</picture>
